@@ -1,0 +1,21 @@
+---
+title: "hello-ta Activity 0"
+output: pdf_document
+date: "2024-01-05"
+---
+
+<br>
+
+Hello, network!
+
+
+```{r}
+install.packages("tidyverse")
+library(tidyverse)
+
+install.packages("igraph")
+library(igraph)
+```
+
+
+
